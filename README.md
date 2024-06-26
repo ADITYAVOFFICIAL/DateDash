@@ -1,5 +1,7 @@
 # Ask-her-out
 Ask her out using this website. Built with latest NextJS version
+
+## My attempts
 | Attempt | Status             |
 |---------|--------------------|
 | Attempt 1 | Not yet commenced |
