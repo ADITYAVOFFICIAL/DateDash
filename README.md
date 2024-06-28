@@ -1,6 +1,6 @@
 # RELEASE DATE - 20 JULY 2024
 
-# Ask-her-out
+# DateDash
 Ask her out using this website. Built with latest NextJS version
 
 ## My attempts
