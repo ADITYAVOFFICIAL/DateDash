@@ -107,7 +107,7 @@ function Home() {
                       </div>
                       <div className="mt-6 p-3 border border-gray-300 rounded-lg bg-gray-800 text-gray-400 w-64 text-center">
                         <p className="mt-0 text-sm font-semibold" style={{fontSize:"14px"}}>
-                          &quot;I&apos;ve been surprised by how much I enjoy our time together, and I think I&apos;m starting to fall for you&quot;
+                          &quot;Hey, I&apos;ve been thinking about you since we met. Would you like to grab coffee or hang out?&quot;
                         </p>
                       </div>
                     </motion.div>
