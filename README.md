@@ -20,3 +20,23 @@ Ask her out using this website. Built with latest NextJS version
   <img align="center" alt="Vercel" height="30" width="130" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vercel_logo_black.svg/2560px-Vercel_logo_black.svg.png">
 </div>
 
+## Setting Up DateDash
+
+1. Installing Dependencies:
+    ```bash
+       npm install
+
+2. Starting the Server:
+    ```bash
+      npm run dev
+<br>
+
+<p>Running website on Local Host</p>
+
+```mermaid
+flowchart LR
+A(Round)
+A[Git Clone] --> B(Round)
+C(Round)
+B[Open Folder] --> C[npm install] -->D[npm start]
+```
