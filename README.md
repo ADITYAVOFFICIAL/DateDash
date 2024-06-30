@@ -38,5 +38,5 @@ flowchart LR
 A(Round)
 A[Git Clone] --> B(Round)
 C(Round)
-B[Open Folder] --> C[npm install] -->D[npm start]
+B[Open Folder] --> C[npm install] -->D[npm run dev]
 ```
