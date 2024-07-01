@@ -1,9 +1,8 @@
-'use client'; // Assuming this is a placeholder or specific requirement
-
+'use client'; 
 import { useEffect, useState } from 'react';
-import { useRouter } from 'next/navigation'; // Corrected import to next/router
+import { useRouter } from 'next/navigation'; 
 import Image from "next/image";
-import Splash from './components/Splashscren/Splash'; // Adjusted the path for Splash component
+import Splash from './components/Splashscren/Splash'; 
 import Link from 'next/link';
 import { motion, AnimatePresence } from 'framer-motion';
 
@@ -13,7 +12,7 @@ function Home() {
   const [isLoading, setIsLoading] = useState(true);
   const [audioPlayed, setAudioPlayed] = useState(false);
   const [showCard, setShowCard] = useState(false);
-  const [showPopup, setShowPopup] = useState(false); // State to control popup display
+  const [showPopup, setShowPopup] = useState(false); 
 
   useEffect(() => {
     if (noClickCount === 2) {
@@ -24,7 +23,7 @@ function Home() {
   useEffect(() => {
     const timer = setTimeout(() => {
       setIsLoading(false);
-    }, 6000); // Adjust based on your app's loading time
+    }, 6000); 
     return () => clearTimeout(timer);
   }, []);
 
@@ -42,7 +41,7 @@ function Home() {
   const handleNoClick = () => {
     setNoClickCount(prevCount => prevCount + 1);
     if (noClickCount === 0) {
-      setShowPopup(true); // Show the popup on first 'No' click
+      setShowPopup(true); 
     }
   };
 
