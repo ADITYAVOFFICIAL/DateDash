@@ -2,12 +2,8 @@
 Ask her out using this website. Built with latest NextJS version
 
 ## My attempts
-| Attempt | Status             |
-|---------|--------------------|
-| Attempt 1 | Not yet commenced |
-| Attempt 2 | Not yet commenced |
-| Attempt 3 | Not yet commenced |
-| Attempt 4 | Not yet commenced |
+
+> [!NEVER MIND]
 <br>
 
 # Technologies used
