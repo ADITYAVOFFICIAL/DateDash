@@ -3,7 +3,9 @@ Ask her out using this website. Built with latest NextJS version
 
 ## My attempts
 
-> [!NEVER MIND]
+> [!WARNING]
+> All failed.
+> 
 <br>
 
 # Technologies used
